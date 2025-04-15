@@ -4,7 +4,15 @@ Hi 👋 My name is Santtu Roy
 Full-Stack Developer and Architect
 ----------------------------------
 
-A Full-Stack Developer with over 18 years of industry experience is a seasoned professional skilled in both front-end and back-end development, adept at creating seamless, high-performance web applications. Mastery of technologies such as HTML, CSS, JavaScript, and frameworks like React, AngularJS, or Vue.js ensures the development of engaging and responsive user interfaces. On the back-end, expertise in languages and tools like Python, PHP, and Node.js, along with proficiency in database management and API integration, underpins the robust functionality of applications. This extensive experience also includes advanced knowledge of cloud hosting, server management, and effective debugging and testing practices, making the developer a versatile and valuable asset capable of tackling complex projects and leading innovative solutions.
+Senior Solution Architect | Python • GenAI • Kafka • Cloud platforms
+
+A highly accomplished Senior Solution Architect with over 18 years of global IT experience, specializing in full-stack architecture, enterprise-grade data platforms, and next-generation AI-powered solutions. Demonstrated expertise in designing, developing, and deploying scalable, high-performance systems using Python, Django, and modern JavaScript frameworks like React, Angular, and Vue.js.
+
+Proficient in architecting data-intensive applications leveraging distributed processing frameworks such as Apache Spark, Hadoop, and cloud data warehousing with Snowflake. Adept at building real-time streaming and messaging architectures using Apache Kafka, enabling event-driven microservice ecosystems that are both resilient and scalable.
+
+Hands-on experience with containerized environments using Docker and orchestrating multi-service applications with Kubernetes, ensuring consistent deployment and operational efficiency across hybrid and cloud-native infrastructures.
+
+Additionally, well-versed in cloud platforms (AWS, Azure, GCP), CI/CD pipelines, and infrastructure as code (Terraform, Ansible), combined with a strong foundation in software engineering best practices, DevOps methodologies, and AI/ML integration using Generative AI frameworks and LLMs.
 
 *   🌍  I'm based in Kolkata
 *   ✉️  You can contact me at [roysantu2002@yahoo.com](mailto:roysantu2002@yahoo.com)
